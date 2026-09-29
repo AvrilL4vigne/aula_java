@@ -1,0 +1,9 @@
+texto="2"
+texto1=str(2)
+print(texto+texto1)
+num=3
+texto=num
+print(texto+num)
+num2=5.5
+num3=float(7)
+num4=4.0
